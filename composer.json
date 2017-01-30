@@ -1,0 +1,20 @@
+{
+	"name": "fredsimplontlse/espacedenom",
+	"description": "exo",
+	"authors": [
+		{
+			"name": "Fred",
+			"email": "delon.frederic.pro.job@gmail.com"
+		}
+	],
+	"require": {},
+
+	"autoload": {
+		"psr-4" : {
+			"Bobylove\\App\\" : "src/"
+
+
+
+		}
+	}
+}
